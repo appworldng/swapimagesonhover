@@ -4,6 +4,9 @@ A custom jQuery script to help you swap one image to another on hover easily usi
 ### Usage
 The "**swim**" class is ideal for use on images you would want swapped with another on a website. Very useful for e-commerce websites and fancy photo/gallery websites.
 
+### Requirements
+jQuery.js
+
 #### Image Styling
 The **data-img** attribute is used to attach the second image of your choice you would want swapped. Once this is done, simply add your **swim** class to the image element and you're good to go...
 ```
