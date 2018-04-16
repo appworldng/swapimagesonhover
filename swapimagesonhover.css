@@ -1,20 +1,20 @@
-.swapimg-container {
+.swim-container {
     display: block;
     position: relative;
 }
 
-.swapimg-container img {
+.swim-container img {
     position: absolute;
     top: 0; left: 0;
 }
 
-.swapimg-container > img:first-child {
+.swim-container > img:first-child {
     opacity: 1;
     transition: all 0.7s;
     z-index: 100;
 }
 
-.swapimg-container:hover > img:first-child {
+.swim-container:hover > img:first-child {
     opacity: 0;
     transition: all 0.7s;
 }
