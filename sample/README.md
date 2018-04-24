@@ -42,6 +42,3 @@ The **data-img** attribute is used to attach the second image of your choice you
     </body>
 </html>
 ```
-
-### Contributions
-Anyone and everyone is welcome to contribute. 
