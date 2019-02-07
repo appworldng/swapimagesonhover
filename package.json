@@ -1,0 +1,32 @@
+{
+    "name": "swapimagesonhover",
+    "version": "1.0.0",
+    "description": "A custom jQuery script to help you swap one image to another on hover easily using (jQuery, CSS)...",
+    "author": "Chigozie Orunta <chigozieorunta@yahoo.com> (https://github.com/chigozieorunta/swapimagesonhover)",
+    "license": "MIT",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/chigozieorunta/swapimagesonhover.git"
+    },
+    "keywords": [
+        "chigozieorunta",
+        "npm",
+        "package",
+        "swim",
+        "swapimagesonhover",
+        "jquery",
+        "swap",
+        "images",
+        "chigozie",
+        "orunta"
+    ],
+    "files": [
+        "swapimagesonhover.css",
+        "swapimagesonhover.min.css",
+        "swapimagesonhover.js",
+        "swapimagesonhover.min.js"
+    ]
+}
